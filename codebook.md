@@ -5,12 +5,27 @@ Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab - No
 
 # The data set has the following variables: 
 
-* "activity": specify the activity as one ofe the followings : (WALKING / WALKING_UPSTAIRS / WALKING_DOWNSTAIRS / SITTING / STANDING / LAYING)
+* "activity": specify the activity as one of the followings : (WALKING / WALKING_UPSTAIRS / WALKING_DOWNSTAIRS / SITTING / STANDING / LAYING)
 * "subject" : specify the id of the correspondant subject
 * all the others variables are averages values (mean and standard deviation) calculated for each activity and for each subject drived from the original datset.
 Please refer to the original dataset for further information about the original features.
 The variables are derived from accelerometer and gyroscope signals and are presented with time and frequency units.
 As specifiyed, the values presented in the this dataset are calculated mean ("mean") and standard deviation ("std").
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
