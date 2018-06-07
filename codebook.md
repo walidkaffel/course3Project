@@ -1,13 +1,13 @@
-##Variables code book:
+## Variables code book:
 
 The original data set is from : Human Activity Recognition Using Smartphones Dataset Version 1.0
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab - Non Linear Complex Systems Laboratory DITEN - Università degli Studi di Genova. Via Opera Pia 11A, I-16145, Genoa, Italy. activityrecognition@smartlab.ws www.smartlab.ws
 
-#The data set has the following variables: 
+# The data set has the following variables: 
 
-*"activity": specify the activity as one ofe the followings : (WALKING / WALKING_UPSTAIRS / WALKING_DOWNSTAIRS / SITTING / STANDING / LAYING)
-*"subject" : specify the id of the correspondant subject
-** all the others variables are averages values (mean and standard deviation) calculated for each activity and for each subject drived from the original datset.
+* "activity": specify the activity as one ofe the followings : (WALKING / WALKING_UPSTAIRS / WALKING_DOWNSTAIRS / SITTING / STANDING / LAYING)
+* "subject" : specify the id of the correspondant subject
+* all the others variables are averages values (mean and standard deviation) calculated for each activity and for each subject drived from the original datset.
 Please refer to the original dataset for further information about the original features.
 The variables are derived from accelerometer and gyroscope signals and are presented with time and frequency units.
 As specifiyed, the values presented in the this dataset are calculated mean ("mean") and standard deviation ("std").
